@@ -1,0 +1,472 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="HdvTOCOKVU2GRw_mPj4K">
+    <mxGraphModel dx="3870" dy="2550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="practice-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="PRACTICE WIREFRAMES — mobile first / stacked content" vertex="1">
+          <mxGeometry height="35" width="930" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;swimlane;startSize=24;fontStyle=1;" value="HOME" vertex="1">
+          <mxGeometry height="650" width="280" x="30" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-3" parent="practice-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;" value="SITE NAME" vertex="1">
+          <mxGeometry height="56" width="280" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-4" parent="practice-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="LOGO" vertex="1">
+          <mxGeometry height="56" width="55" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-5" parent="practice-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="☰" vertex="1">
+          <mxGeometry height="36" width="45" x="225" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-6" parent="practice-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="FOOTER&lt;br/&gt;Site links · Social links · Copyright" vertex="1">
+          <mxGeometry height="60" width="280" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-7" parent="practice-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="INTRODUCTION &amp;lt;section&amp;gt;&lt;br/&gt;&lt;br/&gt;Name / role&lt;br/&gt;Short welcome paragraph" vertex="1">
+          <mxGeometry height="105" width="240" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-8" parent="practice-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;" value="View projects" vertex="1">
+          <mxGeometry height="32" width="240" x="20" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-9" parent="practice-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="FEATURED PROJECTS &amp;lt;section&amp;gt;" vertex="1">
+          <mxGeometry height="25" width="240" x="20" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-10" parent="practice-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="IMAGE&lt;br/&gt;×" vertex="1">
+          <mxGeometry height="80" width="80" x="20" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-11" parent="practice-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="Project title&lt;br/&gt;Brief description&lt;br/&gt;View project →" vertex="1">
+          <mxGeometry height="80" width="150" x="110" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-12" parent="practice-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="IMAGE&lt;br/&gt;×" vertex="1">
+          <mxGeometry height="80" width="80" x="20" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-13" parent="practice-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="Project title&lt;br/&gt;Brief description&lt;br/&gt;View project →" vertex="1">
+          <mxGeometry height="80" width="150" x="110" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-14" parent="practice-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;" value="Get in touch" vertex="1">
+          <mxGeometry height="32" width="240" x="20" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;swimlane;startSize=24;fontStyle=1;" value="CONTACT" vertex="1">
+          <mxGeometry height="650" width="280" x="350" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-16" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;" value="SITE NAME" vertex="1">
+          <mxGeometry height="56" width="280" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-17" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="LOGO" vertex="1">
+          <mxGeometry height="56" width="55" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-18" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="☰" vertex="1">
+          <mxGeometry height="36" width="45" x="225" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-19" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="FOOTER&lt;br/&gt;Site links · Social links · Copyright" vertex="1">
+          <mxGeometry height="60" width="280" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-20" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="CONTACT &amp;lt;h1&amp;gt;&lt;br/&gt;Short invitation to send a message" vertex="1">
+          <mxGeometry height="55" width="240" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-21" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="Name &amp;lt;label&amp;gt;" vertex="1">
+          <mxGeometry height="20" width="240" x="20" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-22" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="Name input" vertex="1">
+          <mxGeometry height="35" width="240" x="20" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-23" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="Email &amp;lt;label&amp;gt;" vertex="1">
+          <mxGeometry height="20" width="240" x="20" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-24" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="Email input" vertex="1">
+          <mxGeometry height="35" width="240" x="20" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-25" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="Message &amp;lt;label&amp;gt;" vertex="1">
+          <mxGeometry height="20" width="240" x="20" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-26" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="Message textarea" vertex="1">
+          <mxGeometry height="100" width="240" x="20" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-27" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="Inline validation feedback&lt;br/&gt;(space below each field)" vertex="1">
+          <mxGeometry height="40" width="240" x="20" y="442" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-28" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;" value="Send message" vertex="1">
+          <mxGeometry height="32" width="240" x="20" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-29" parent="practice-15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="Form status / success feedback" vertex="1">
+          <mxGeometry height="35" width="240" x="20" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;swimlane;startSize=24;fontStyle=1;" value="ABOUT" vertex="1">
+          <mxGeometry height="650" width="280" x="670" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-31" parent="practice-30" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;" value="SITE NAME" vertex="1">
+          <mxGeometry height="56" width="280" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-32" parent="practice-30" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="LOGO" vertex="1">
+          <mxGeometry height="56" width="55" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-33" parent="practice-30" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="☰" vertex="1">
+          <mxGeometry height="36" width="45" x="225" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-34" parent="practice-30" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="FOOTER&lt;br/&gt;Site links · Social links · Copyright" vertex="1">
+          <mxGeometry height="60" width="280" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-35" parent="practice-30" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="ABOUT ME &amp;lt;h1&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-36" parent="practice-30" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="PORTRAIT&lt;br/&gt;×" vertex="1">
+          <mxGeometry height="100" width="120" x="80" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-37" parent="practice-30" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="BIOGRAPHY &amp;lt;section&amp;gt;&lt;br/&gt;&lt;br/&gt;Background / interests / goals" vertex="1">
+          <mxGeometry height="100" width="240" x="20" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-38" parent="practice-30" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="SKILLS &amp;lt;section&amp;gt;&lt;br/&gt;&lt;br/&gt;Languages / tools / strengths" vertex="1">
+          <mxGeometry height="90" width="240" x="20" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-39" parent="practice-30" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;" value="View resumé" vertex="1">
+          <mxGeometry height="32" width="240" x="20" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;swimlane;startSize=24;fontStyle=1;" value="RESUMÉ" vertex="1">
+          <mxGeometry height="650" width="280" x="30" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-41" parent="practice-40" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;" value="SITE NAME" vertex="1">
+          <mxGeometry height="56" width="280" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-42" parent="practice-40" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="LOGO" vertex="1">
+          <mxGeometry height="56" width="55" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-43" parent="practice-40" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="☰" vertex="1">
+          <mxGeometry height="36" width="45" x="225" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-44" parent="practice-40" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="FOOTER&lt;br/&gt;Site links · Social links · Copyright" vertex="1">
+          <mxGeometry height="60" width="280" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-45" parent="practice-40" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="RESUMÉ &amp;lt;h1&amp;gt;" vertex="1">
+          <mxGeometry height="35" width="240" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-46" parent="practice-40" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="PROFILE &amp;lt;section&amp;gt;&lt;br/&gt;Name / career summary" vertex="1">
+          <mxGeometry height="65" width="240" x="20" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-47" parent="practice-40" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="EDUCATION &amp;lt;section&amp;gt;&lt;br/&gt;Course / institution / dates" vertex="1">
+          <mxGeometry height="85" width="240" x="20" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-48" parent="practice-40" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="EXPERIENCE &amp;lt;section&amp;gt;&lt;br/&gt;Role / organisation / dates&lt;br/&gt;Key responsibilities" vertex="1">
+          <mxGeometry height="100" width="240" x="20" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-49" parent="practice-40" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="SKILLS &amp;amp; ACHIEVEMENTS&lt;br/&gt;Technical / transferable skills&lt;br/&gt;Relevant awards" vertex="1">
+          <mxGeometry height="100" width="240" x="20" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;swimlane;startSize=24;fontStyle=1;" value="PROJECTS" vertex="1">
+          <mxGeometry height="650" width="280" x="350" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-51" parent="practice-50" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;" value="SITE NAME" vertex="1">
+          <mxGeometry height="56" width="280" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-52" parent="practice-50" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="LOGO" vertex="1">
+          <mxGeometry height="56" width="55" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-53" parent="practice-50" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="☰" vertex="1">
+          <mxGeometry height="36" width="45" x="225" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-54" parent="practice-50" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="FOOTER&lt;br/&gt;Site links · Social links · Copyright" vertex="1">
+          <mxGeometry height="60" width="280" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-55" parent="practice-50" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="PROJECTS &amp;lt;h1&amp;gt;&lt;br/&gt;Short introduction" vertex="1">
+          <mxGeometry height="55" width="240" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-56" parent="practice-50" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="PROJECT CARD &amp;lt;article&amp;gt;&lt;br/&gt;&lt;br/&gt;Image placeholder ×&lt;br/&gt;Project title / summary&lt;br/&gt;Tools used&lt;br/&gt;View project →" vertex="1">
+          <mxGeometry height="150" width="240" x="20" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-57" parent="practice-50" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="PROJECT CARD &amp;lt;article&amp;gt;&lt;br/&gt;&lt;br/&gt;Image placeholder ×&lt;br/&gt;Project title / summary&lt;br/&gt;Tools used&lt;br/&gt;View project →" vertex="1">
+          <mxGeometry height="150" width="240" x="20" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-58" parent="practice-50" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="Cards stack on mobile;&lt;br/&gt;grid on wider screens" vertex="1">
+          <mxGeometry height="45" width="240" x="20" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;swimlane;startSize=24;fontStyle=1;" value="SAMPLE PROJECT" vertex="1">
+          <mxGeometry height="650" width="280" x="670" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-60" parent="practice-59" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;" value="SITE NAME" vertex="1">
+          <mxGeometry height="56" width="280" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-61" parent="practice-59" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="LOGO" vertex="1">
+          <mxGeometry height="56" width="55" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-62" parent="practice-59" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="☰" vertex="1">
+          <mxGeometry height="36" width="45" x="225" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-63" parent="practice-59" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="FOOTER&lt;br/&gt;Site links · Social links · Copyright" vertex="1">
+          <mxGeometry height="60" width="280" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-64" parent="practice-59" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="← Back to projects" vertex="1">
+          <mxGeometry height="25" width="240" x="20" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-65" parent="practice-59" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="PROJECT TITLE &amp;lt;h1&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="20" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-66" parent="practice-59" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="OVERVIEW &amp;lt;section&amp;gt;&lt;br/&gt;Purpose / tools / short description" vertex="1">
+          <mxGeometry height="75" width="240" x="20" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-67" parent="practice-59" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="LIVE DEMO — PHASE 4 NINJA API" vertex="1">
+          <mxGeometry height="35" width="240" x="20" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-68" parent="practice-59" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="API FORM &amp;lt;form&amp;gt;&lt;br/&gt;Labelled Phase 4 input(s)" vertex="1">
+          <mxGeometry height="60" width="240" x="20" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-69" parent="practice-59" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;" value="Submit / fetch results" vertex="1">
+          <mxGeometry height="32" width="240" x="20" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-70" parent="practice-59" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="API RESULTS &amp;lt;section&amp;gt;&lt;br/&gt;&lt;br/&gt;Loading / error / result area" vertex="1">
+          <mxGeometry height="105" width="240" x="20" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="practice-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=none;align=left;" value="SHARED STRUCTURE: header + navigation → main → sections/articles → footer.&lt;br/&gt;Menu links: Home · Contact · About · Resumé · Projects. Sample project opens from a project card.&lt;br/&gt;Desktop: expand navigation and use columns where suitable. Phase 4 fields must match your existing Ninja API form." vertex="1">
+          <mxGeometry height="75" width="930" x="30" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="DESKTOP PRACTICE WIREFRAMES — same content, wider navigation and columns" vertex="1">
+          <mxGeometry height="35" width="1650" x="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;swimlane;startSize=28;fontStyle=1;" value="HOME — DESKTOP" vertex="1">
+          <mxGeometry height="650" width="800" x="1050" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-3" parent="desktop-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="64" width="800" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-4" parent="desktop-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="LOGO" vertex="1">
+          <mxGeometry height="40" width="48" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-5" parent="desktop-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="SITE NAME" vertex="1">
+          <mxGeometry height="40" width="150" x="85" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-6" parent="desktop-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;" value="Home  |  Contact  |  About  |  Resumé  |  Projects" vertex="1">
+          <mxGeometry height="40" width="495" x="285" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-7" parent="desktop-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="FOOTER — Site links · Social links · Copyright" vertex="1">
+          <mxGeometry height="60" width="800" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-8" parent="desktop-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="INTRODUCTION — section&lt;br/&gt;&lt;br/&gt;Name / role&lt;br/&gt;Short welcome paragraph" vertex="1">
+          <mxGeometry height="155" width="740" x="30" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-9" parent="desktop-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;" value="View projects" vertex="1">
+          <mxGeometry height="36" width="180" x="30" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-10" parent="desktop-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;" value="Get in touch" vertex="1">
+          <mxGeometry height="36" width="180" x="230" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-11" parent="desktop-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="FEATURED PROJECTS — section" vertex="1">
+          <mxGeometry height="30" width="740" x="30" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-12" parent="desktop-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="IMAGE&lt;br/&gt;×" vertex="1">
+          <mxGeometry height="150" width="160" x="30" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-13" parent="desktop-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="PROJECT — article&lt;br/&gt;&lt;br/&gt;Project title&lt;br/&gt;Brief description&lt;br/&gt;View project →" vertex="1">
+          <mxGeometry height="150" width="185" x="205" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-14" parent="desktop-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="IMAGE&lt;br/&gt;×" vertex="1">
+          <mxGeometry height="150" width="160" x="410" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-15" parent="desktop-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="PROJECT — article&lt;br/&gt;&lt;br/&gt;Project title&lt;br/&gt;Brief description&lt;br/&gt;View project →" vertex="1">
+          <mxGeometry height="150" width="185" x="585" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;swimlane;startSize=28;fontStyle=1;" value="CONTACT — DESKTOP" vertex="1">
+          <mxGeometry height="650" width="800" x="1900" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-17" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="64" width="800" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-18" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="LOGO" vertex="1">
+          <mxGeometry height="40" width="48" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-19" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="SITE NAME" vertex="1">
+          <mxGeometry height="40" width="150" x="85" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-20" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;" value="Home  |  Contact  |  About  |  Resumé  |  Projects" vertex="1">
+          <mxGeometry height="40" width="495" x="285" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-21" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="FOOTER — Site links · Social links · Copyright" vertex="1">
+          <mxGeometry height="60" width="800" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-22" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="CONTACT — h1" vertex="1">
+          <mxGeometry height="35" width="740" x="30" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-23" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="INTRODUCTION — section&lt;br/&gt;&lt;br/&gt;Invitation to send a message&lt;br/&gt;&lt;br/&gt;Short contact guidance" vertex="1">
+          <mxGeometry height="270" width="240" x="30" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-24" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Name — label" vertex="1">
+          <mxGeometry height="22" width="205" x="310" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-25" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Email — label" vertex="1">
+          <mxGeometry height="22" width="235" x="535" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-26" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Name input" vertex="1">
+          <mxGeometry height="38" width="205" x="310" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-27" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Email input" vertex="1">
+          <mxGeometry height="38" width="235" x="535" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-28" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Name validation feedback" vertex="1">
+          <mxGeometry height="25" width="205" x="310" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-29" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Email validation feedback" vertex="1">
+          <mxGeometry height="25" width="235" x="535" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-30" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Message — label" vertex="1">
+          <mxGeometry height="22" width="460" x="310" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-31" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Message textarea" vertex="1">
+          <mxGeometry height="115" width="460" x="310" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-32" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Message validation feedback" vertex="1">
+          <mxGeometry height="28" width="460" x="310" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-33" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;" value="Send message" vertex="1">
+          <mxGeometry height="36" width="200" x="310" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-34" parent="desktop-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Form status / success feedback" vertex="1">
+          <mxGeometry height="30" width="460" x="310" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;swimlane;startSize=28;fontStyle=1;" value="ABOUT — DESKTOP" vertex="1">
+          <mxGeometry height="650" width="800" x="1050" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-36" parent="desktop-35" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="64" width="800" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-37" parent="desktop-35" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="LOGO" vertex="1">
+          <mxGeometry height="40" width="48" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-38" parent="desktop-35" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="SITE NAME" vertex="1">
+          <mxGeometry height="40" width="150" x="85" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-39" parent="desktop-35" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;" value="Home  |  Contact  |  About  |  Resumé  |  Projects" vertex="1">
+          <mxGeometry height="40" width="495" x="285" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-40" parent="desktop-35" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="FOOTER — Site links · Social links · Copyright" vertex="1">
+          <mxGeometry height="60" width="800" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-41" parent="desktop-35" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="ABOUT ME — h1" vertex="1">
+          <mxGeometry height="35" width="740" x="30" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-42" parent="desktop-35" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="PORTRAIT — image&lt;br/&gt;×" vertex="1">
+          <mxGeometry height="260" width="230" x="30" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-43" parent="desktop-35" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="BIOGRAPHY — section&lt;br/&gt;&lt;br/&gt;Background / interests / goals" vertex="1">
+          <mxGeometry height="125" width="480" x="290" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-44" parent="desktop-35" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="SKILLS — section&lt;br/&gt;&lt;br/&gt;Languages / tools / strengths" vertex="1">
+          <mxGeometry height="115" width="480" x="290" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-45" parent="desktop-35" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;" value="View resumé" vertex="1">
+          <mxGeometry height="36" width="200" x="290" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;swimlane;startSize=28;fontStyle=1;" value="RESUMÉ — DESKTOP" vertex="1">
+          <mxGeometry height="650" width="800" x="1900" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-47" parent="desktop-46" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="64" width="800" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-48" parent="desktop-46" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="LOGO" vertex="1">
+          <mxGeometry height="40" width="48" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-49" parent="desktop-46" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="SITE NAME" vertex="1">
+          <mxGeometry height="40" width="150" x="85" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-50" parent="desktop-46" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;" value="Home  |  Contact  |  About  |  Resumé  |  Projects" vertex="1">
+          <mxGeometry height="40" width="495" x="285" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-51" parent="desktop-46" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="FOOTER — Site links · Social links · Copyright" vertex="1">
+          <mxGeometry height="60" width="800" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-52" parent="desktop-46" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="RESUMÉ — h1" vertex="1">
+          <mxGeometry height="35" width="740" x="30" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-53" parent="desktop-46" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="PROFILE — section&lt;br/&gt;&lt;br/&gt;Name / career summary" vertex="1">
+          <mxGeometry height="115" width="235" x="30" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-54" parent="desktop-46" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="SKILLS &amp;amp; ACHIEVEMENTS&lt;br/&gt;&lt;br/&gt;Technical skills&lt;br/&gt;Transferable skills&lt;br/&gt;Relevant awards" vertex="1">
+          <mxGeometry height="240" width="235" x="30" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-55" parent="desktop-46" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="EDUCATION — section&lt;br/&gt;&lt;br/&gt;Course / institution / dates" vertex="1">
+          <mxGeometry height="140" width="475" x="295" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-56" parent="desktop-46" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="EXPERIENCE — section&lt;br/&gt;&lt;br/&gt;Role / organisation / dates&lt;br/&gt;Key responsibilities" vertex="1">
+          <mxGeometry height="215" width="475" x="295" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;swimlane;startSize=28;fontStyle=1;" value="PROJECTS — DESKTOP" vertex="1">
+          <mxGeometry height="650" width="800" x="1050" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-58" parent="desktop-57" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="64" width="800" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-59" parent="desktop-57" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="LOGO" vertex="1">
+          <mxGeometry height="40" width="48" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-60" parent="desktop-57" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="SITE NAME" vertex="1">
+          <mxGeometry height="40" width="150" x="85" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-61" parent="desktop-57" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;" value="Home  |  Contact  |  About  |  Resumé  |  Projects" vertex="1">
+          <mxGeometry height="40" width="495" x="285" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-62" parent="desktop-57" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="FOOTER — Site links · Social links · Copyright" vertex="1">
+          <mxGeometry height="60" width="800" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-63" parent="desktop-57" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="PROJECTS — h1&lt;br/&gt;Short introduction" vertex="1">
+          <mxGeometry height="60" width="740" x="30" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-64" parent="desktop-57" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="IMAGE&lt;br/&gt;×" vertex="1">
+          <mxGeometry height="160" width="360" x="30" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-65" parent="desktop-57" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="PROJECT CARD — article&lt;br/&gt;&lt;br/&gt;Project title / summary&lt;br/&gt;Tools used" vertex="1">
+          <mxGeometry height="110" width="360" x="30" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-66" parent="desktop-57" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;" value="View project →" vertex="1">
+          <mxGeometry height="36" width="320" x="50" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-67" parent="desktop-57" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="IMAGE&lt;br/&gt;×" vertex="1">
+          <mxGeometry height="160" width="360" x="410" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-68" parent="desktop-57" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="PROJECT CARD — article&lt;br/&gt;&lt;br/&gt;Project title / summary&lt;br/&gt;Tools used" vertex="1">
+          <mxGeometry height="110" width="360" x="410" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-69" parent="desktop-57" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;" value="View project →" vertex="1">
+          <mxGeometry height="36" width="320" x="430" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;swimlane;startSize=28;fontStyle=1;" value="SAMPLE PROJECT — DESKTOP" vertex="1">
+          <mxGeometry height="650" width="800" x="1900" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-71" parent="desktop-70" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="64" width="800" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-72" parent="desktop-70" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="LOGO" vertex="1">
+          <mxGeometry height="40" width="48" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-73" parent="desktop-70" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="SITE NAME" vertex="1">
+          <mxGeometry height="40" width="150" x="85" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-74" parent="desktop-70" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;" value="Home  |  Contact  |  About  |  Resumé  |  Projects" vertex="1">
+          <mxGeometry height="40" width="495" x="285" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-75" parent="desktop-70" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="FOOTER — Site links · Social links · Copyright" vertex="1">
+          <mxGeometry height="60" width="800" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-76" parent="desktop-70" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="← Back to projects" vertex="1">
+          <mxGeometry height="25" width="740" x="30" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-77" parent="desktop-70" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="PROJECT TITLE — h1" vertex="1">
+          <mxGeometry height="35" width="740" x="30" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-78" parent="desktop-70" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="OVERVIEW — section&lt;br/&gt;Purpose / tools / short description" vertex="1">
+          <mxGeometry height="90" width="740" x="30" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-79" parent="desktop-70" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="LIVE DEMO — PHASE 4 NINJA API" vertex="1">
+          <mxGeometry height="30" width="740" x="30" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-80" parent="desktop-70" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="API FORM — form&lt;br/&gt;&lt;br/&gt;Labelled Phase 4 input(s)" vertex="1">
+          <mxGeometry height="105" width="300" x="30" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-81" parent="desktop-70" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;" value="Submit / fetch results" vertex="1">
+          <mxGeometry height="36" width="300" x="30" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-82" parent="desktop-70" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="API RESULTS — section&lt;br/&gt;&lt;br/&gt;Loading / error / result area" vertex="1">
+          <mxGeometry height="185" width="410" x="360" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="desktop-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="RESPONSIVE NOTES: desktop navigation replaces the menu button; contact fields sit side by side; biography / resumé / API areas use columns.&lt;br/&gt;Mobile versions remain on the left. Keep the same content and logical reading order as the layout stacks on smaller screens." vertex="1">
+          <mxGeometry height="60" width="1650" x="1050" y="2150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
