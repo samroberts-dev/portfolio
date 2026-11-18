@@ -3,11 +3,11 @@ const menuButton = document.querySelector('#menu-toggle');
 const navigation = document.querySelector('#main-nav');
 
 if (menuButton && navigation) {
-    function setMenuOpen(isOpen) {
+    const setMenuOpen = function (isOpen) {
         navigation.classList.toggle('hidden', !isOpen);
         menuButton.setAttribute('aria-expanded', String(isOpen));
         menuButton.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
-    }
+    };
 
     menuButton.addEventListener('click', function () {
         setMenuOpen(menuButton.getAttribute('aria-expanded') !== 'true');
