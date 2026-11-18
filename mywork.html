@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore projects by Samuel Roberts.">
+    <title>My Work | Samuel Roberts</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&amp;family=Outfit:wght@600;700&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+    <script src="assets/js/main.js" defer></script>
+    <script src="assets/js/mywork.js" defer></script>
+</head>
+<body class="flex min-h-screen flex-col bg-surface font-sans text-foreground antialiased">
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded focus:bg-accent focus:p-3 focus:text-surface">Skip to content</a>
+    <header class="border-b border-accent/25">
+        <div class="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-6 px-6 py-6 lg:px-10">
+            <h1 class="font-display text-2xl font-bold tracking-tight lg:text-3xl">
+                <a href="index.html" class="rounded focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">
+                    <span class="hidden md:inline">Samuel Roberts <span class="text-accent">Portfolio</span></span>
+                    <span class="md:hidden"><span class="sr-only">Samuel Roberts Portfolio</span><span aria-hidden="true">S<span class="text-accent">R</span></span></span>
+                </a>
+            </h1>
+            <button id="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="main-nav"
+                class="flex min-h-11 min-w-11 flex-col items-center justify-center gap-1.5 rounded-lg border border-accent/50 p-3 hover:bg-accent/10 md:hidden focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">
+                <span class="h-0.5 w-6 bg-foreground" aria-hidden="true"></span>
+                <span class="h-0.5 w-6 bg-foreground" aria-hidden="true"></span>
+                <span class="h-0.5 w-6 bg-foreground" aria-hidden="true"></span>
+            </button>
+            <nav id="main-nav" aria-label="Main navigation" class="hidden w-full md:block md:w-auto">
+                <ul class="flex flex-col gap-2 text-sm font-bold md:flex-row md:flex-wrap md:gap-5">
+                    <li><a href="index.html" class="block rounded py-2 transition-colors hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">Home</a></li>
+                    <li><a href="projects.html" class="block rounded py-2 transition-colors hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">Projects</a></li>
+                    <li><a href="mywork.html" class="block rounded py-2 transition-colors hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent text-accent" aria-current="page">My Work</a></li>
+                    <li><a href="resume.html" class="block rounded py-2 transition-colors hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">Resumé</a></li>
+                    <li><a href="contact.html" class="block rounded py-2 transition-colors hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">Contact</a></li>
+                    <li><a href="about.html" class="block rounded py-2 transition-colors hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main id="main-content" class="mx-auto w-full max-w-6xl flex-1 px-6 py-16 sm:py-24 lg:px-10">
+        <a href="projects.html" class="rounded text-sm text-accent hover:underline focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">← Back to Projects</a>
+        <section id="project-picker" class="mt-8" aria-labelledby="picker-title">
+            <h2 id="picker-title" class="font-display text-4xl font-bold">My Work</h2>
+            <p class="mt-4 text-muted">Choose a project to view its details.</p>
+            <ul class="mt-6 space-y-4">
+                <li><a href="mywork.html?project=web" class="text-accent underline underline-offset-4">Web Technologies Portfolio</a></li>
+                <li><a href="mywork.html?project=database" class="text-accent underline underline-offset-4">Database Customisation</a></li>
+                <li><a href="mywork.html?project=game" class="text-accent underline underline-offset-4">Guessing Game</a></li>
+            </ul>
+        </section>
+        <article data-project="web" class="hidden mt-8" aria-labelledby="web-title">
+            <p class="text-xs font-bold uppercase tracking-[0.2em] text-accent">My work</p>
+            <h2 id="web-title" class="mt-4 font-display text-4xl font-bold tracking-tight sm:text-6xl">Web Technologies Portfolio</h2>
+            <img src="https://opengraph.githubassets.com/e43e552922156a4be50c2d325d02c73bec6849111f8697ddc7931964ecaa6410/samroberts-dev/C4Prog-WT-26S2-Portfolio-SamuelRoberts" alt="GitHub preview for Web Technologies Portfolio" width="1200" height="600" loading="lazy" class="mt-10 aspect-[2/1] w-full rounded-2xl border border-accent/20 bg-foreground object-contain">
+            <div class="mt-10 grid gap-8 md:grid-cols-2">
+                <section aria-labelledby="web-overview">
+                    <h3 id="web-overview" class="font-display text-2xl font-semibold">Overview</h3>
+                    <p class="mt-4 leading-relaxed text-muted">A staged portfolio created for my Certificate IV Web Technologies studies. The project brings together semantic HTML, responsive CSS layouts and JavaScript, including forms that request country flags and dad jokes from an API. A Tailwind CSS dashboard links the portfolio phases together.</p>
+                </section>
+                <section aria-labelledby="web-tools">
+                    <h3 id="web-tools" class="font-display text-2xl font-semibold">Technologies used</h3>
+                    <ul class="mt-4 flex flex-wrap gap-3 text-accent">
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">HTML5</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">CSS3</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">JavaScript</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">Tailwind CSS</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">REST APIs</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">Git</li>
+                    </ul>
+                </section>
+            </div>
+            <section aria-labelledby="web-learned" class="mt-8">
+                <h3 id="web-learned" class="font-display text-2xl font-semibold">What I learned</h3>
+                <p class="mt-4 leading-relaxed text-muted">This project gave me practice structuring pages with semantic HTML, adapting layouts for different screen sizes and keeping styling and JavaScript in separate files. I also worked with API requests, displayed responses on the page and handled errors. Using Git helped me track changes as I built each phase.</p>
+            </section>
+            <a href="https://github.com/samroberts-dev/C4Prog-WT-26S2-Portfolio-SamuelRoberts" class="mt-8 inline-flex rounded-lg bg-accent px-6 py-3 font-bold text-surface hover:bg-foreground focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">View on GitHub <span aria-hidden="true" class="ml-2">↗</span></a>
+        </article>
+        <article data-project="database" class="hidden mt-8" aria-labelledby="database-title">
+            <p class="text-xs font-bold uppercase tracking-[0.2em] text-accent">My work</p>
+            <h2 id="database-title" class="mt-4 font-display text-4xl font-bold tracking-tight sm:text-6xl">Database Customisation</h2>
+            <img src="https://opengraph.githubassets.com/a11735f43efe715f4d3ee87422b653b13f3f028e9873a52bb605e9fc93ee866a/samroberts-dev/DDA_DataBase_Customisation_WPF" alt="GitHub preview for Database Customisation" width="1200" height="600" loading="lazy" class="mt-10 aspect-[2/1] w-full rounded-2xl border border-accent/20 bg-foreground object-contain">
+            <div class="mt-10 grid gap-8 md:grid-cols-2">
+                <section aria-labelledby="database-overview">
+                    <h3 id="database-overview" class="font-display text-2xl font-semibold">Overview</h3>
+                    <p class="mt-4 leading-relaxed text-muted">A Windows desktop application built with C# and WPF to explore a MySQL database. The current code loads database tables, displays their fields and searches records using a selected table, field and value. It is an ongoing project, with further database customisation features still to develop.</p>
+                </section>
+                <section aria-labelledby="database-tools">
+                    <h3 id="database-tools" class="font-display text-2xl font-semibold">Technologies used</h3>
+                    <ul class="mt-4 flex flex-wrap gap-3 text-accent">
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">C#</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">WPF</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">XAML</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">.NET 8</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">MySQL</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">SQL</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">MySql.Data</li>
+                    </ul>
+                </section>
+            </div>
+            <section aria-labelledby="database-learned" class="mt-8">
+                <h3 id="database-learned" class="font-display text-2xl font-semibold">What I learned</h3>
+                <p class="mt-4 leading-relaxed text-muted">This project gave me practice connecting a desktop application to MySQL and using SQL queries to retrieve information. I worked with database schema information, data readers and WPF controls to display tables and fields. I also practised responding to interface events and handling database errors.</p>
+            </section>
+            <a href="https://github.com/samroberts-dev/DDA_DataBase_Customisation_WPF" class="mt-8 inline-flex rounded-lg bg-accent px-6 py-3 font-bold text-surface hover:bg-foreground focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">View on GitHub <span aria-hidden="true" class="ml-2">↗</span></a>
+        </article>
+        <article data-project="game" class="hidden mt-8" aria-labelledby="game-title">
+            <p class="text-xs font-bold uppercase tracking-[0.2em] text-accent">My work</p>
+            <h2 id="game-title" class="mt-4 font-display text-4xl font-bold tracking-tight sm:text-6xl">Guessing Game</h2>
+            <img src="https://opengraph.githubassets.com/8fd67be0e72ea192800cdfbfbe3ac7e58e42a40a6d5ed460f074ca6a8bf42353/samroberts-dev/guessing-game" alt="GitHub preview for Guessing Game" width="1200" height="600" loading="lazy" class="mt-10 aspect-[2/1] w-full rounded-2xl border border-accent/20 bg-foreground object-contain">
+            <div class="mt-10 grid gap-8 md:grid-cols-2">
+                <section aria-labelledby="game-overview">
+                    <h3 id="game-overview" class="font-display text-2xl font-semibold">Overview</h3>
+                    <p class="mt-4 leading-relaxed text-muted">A Python command-line number guessing game where players try to find a randomly selected number between 1 and 1,000. The game gives higher or lower hints and validates each guess. It also includes a basic account system and saves player and global statistics in JSON files, including games played, average guesses and best results.</p>
+                </section>
+                <section aria-labelledby="game-tools">
+                    <h3 id="game-tools" class="font-display text-2xl font-semibold">Technologies used</h3>
+                    <ul class="mt-4 flex flex-wrap gap-3 text-accent">
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">Python</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">JSON</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">random</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">hashlib</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">File handling</li>
+                        <li class="self-start rounded-full border border-accent/25 bg-accent/5 px-3 py-1 text-sm">Git</li>
+                    </ul>
+                </section>
+            </div>
+            <section aria-labelledby="game-learned" class="mt-8">
+                <h3 id="game-learned" class="font-display text-2xl font-semibold">What I learned</h3>
+                <p class="mt-4 leading-relaxed text-muted">This project gave me practice breaking a program into functions and using loops and conditions to control gameplay. I worked with random numbers, validated user input and handled invalid entries with exceptions. Saving and loading JSON files helped me understand how to keep player statistics between runs, and I explored password hashing with hashlib.</p>
+            </section>
+            <a href="https://github.com/samroberts-dev/guessing-game" class="mt-8 inline-flex rounded-lg bg-accent px-6 py-3 font-bold text-surface hover:bg-foreground focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">View on GitHub <span aria-hidden="true" class="ml-2">↗</span></a>
+        </article>
+        <noscript><p class="mt-6 text-muted">Enable JavaScript to view the selected project’s details.</p></noscript>
+    </main>
+    <footer class="border-t border-accent/25">
+        <div class="mx-auto flex max-w-6xl flex-col gap-6 px-6 py-8 text-sm sm:flex-row sm:flex-wrap sm:items-center sm:justify-between lg:px-10">
+            <a href="index.html" aria-label="Samuel Roberts home" class="rounded text-2xl font-bold focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">S<span class="text-accent">R</span></a>
+            <p class="text-muted">&copy; 2026 Samuel Roberts. All rights reserved.</p>
+            <nav aria-label="Footer navigation" class="flex gap-6">
+                <a href="projects.html" class="rounded hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">Projects</a>
+                <a href="contact.html" class="rounded hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">Contact</a>
+            </nav>
+        </div>
+    </footer>
+</body>
+</html>
