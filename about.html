@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Samuel Roberts' programming and web development portfolio.">
+    <title>About | Samuel Roberts</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&amp;family=Outfit:wght@600;700&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+    <script src="assets/js/main.js" defer></script>
+</head>
+<body class="flex min-h-screen flex-col bg-surface font-sans text-foreground antialiased">
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded focus:bg-accent focus:p-3 focus:text-surface">Skip to content</a>
+    <header class="border-b border-accent/25">
+        <div class="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-6 px-6 py-6 lg:px-10">
+            <h1 class="font-display text-2xl font-bold tracking-tight lg:text-3xl">
+                <a href="index.html" class="rounded focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">
+                    <span class="hidden md:inline">Samuel Roberts <span class="text-accent">Portfolio</span></span>
+                    <span class="md:hidden"><span class="sr-only">Samuel Roberts Portfolio</span><span aria-hidden="true">S<span class="text-accent">R</span></span></span>
+                </a>
+            </h1>
+            <button id="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="main-nav"
+                class="flex min-h-11 min-w-11 flex-col items-center justify-center gap-1.5 rounded-lg border border-accent/50 p-3 hover:bg-accent/10 md:hidden focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">
+                <span class="h-0.5 w-6 bg-foreground" aria-hidden="true"></span>
+                <span class="h-0.5 w-6 bg-foreground" aria-hidden="true"></span>
+                <span class="h-0.5 w-6 bg-foreground" aria-hidden="true"></span>
+            </button>
+            <nav id="main-nav" aria-label="Main navigation" class="hidden w-full md:block md:w-auto">
+                <ul class="flex flex-col gap-2 text-sm font-bold md:flex-row md:flex-wrap md:gap-5">
+                    <li><a href="index.html" class="block rounded py-2 transition-colors hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">Home</a></li>
+                    <li><a href="projects.html" class="block rounded py-2 transition-colors hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">Projects</a></li>
+                    <li><a href="resume.html" class="block rounded py-2 transition-colors hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">Resumé</a></li>
+                    <li><a href="contact.html" class="block rounded py-2 transition-colors hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">Contact</a></li>
+                    <li><a href="about.html" class="block rounded py-2 transition-colors hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent text-accent" aria-current="page">About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main id="main-content" class="mx-auto w-full max-w-6xl flex-1 px-6 py-16 lg:px-10">
+        <h2 class="font-display text-4xl font-bold tracking-tight sm:text-6xl">About <span class="text-accent">me.</span></h2>
+        <p class="mt-6 max-w-xl text-lg leading-relaxed text-foreground/80">I’m Samuel Roberts, studying Certificate IV in Information Technology (Programming). I enjoy building websites, applications and creative digital projects.</p>
+    </main>
+    <footer class="border-t border-accent/25">
+        <div class="mx-auto flex max-w-6xl flex-col gap-6 px-6 py-8 text-sm sm:flex-row sm:flex-wrap sm:items-center sm:justify-between lg:px-10">
+            <a href="index.html" aria-label="Samuel Roberts home" class="rounded text-2xl font-bold focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">S<span class="text-accent">R</span></a>
+            <p class="text-muted">&copy; 2026 Samuel Roberts. All rights reserved.</p>
+            <nav aria-label="Footer navigation" class="flex gap-6">
+                <a href="projects.html" class="rounded hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">Projects</a>
+                <a href="contact.html" class="rounded hover:text-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent">Contact</a>
+            </nav>
+        </div>
+    </footer>
+</body>
+</html>

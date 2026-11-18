@@ -1,0 +1,10 @@
+{
+  "name": "samuel-roberts-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./assets/css/site.css",
+    "watch": "npm run build -- --watch"
+  },
+  "devDependencies": { "tailwindcss": "3.4.19" }
+}
